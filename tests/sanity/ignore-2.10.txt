@@ -1,0 +1,8 @@
+plugins/modules/keycloak_client.py validate-modules:doc-default-does-not-match-spec
+plugins/modules/keycloak_client.py validate-modules:doc-missing-type
+plugins/modules/keycloak_client.py validate-modules:parameter-type-not-in-doc
+plugins/modules/keycloak_clienttemplate.py validate-modules:doc-default-does-not-match-spec
+plugins/modules/keycloak_clienttemplate.py validate-modules:doc-missing-type
+plugins/modules/keycloak_clienttemplate.py validate-modules:parameter-type-not-in-doc
+plugins/doc_fragments/keycloak.py future-import-boilerplate
+plugins/doc_fragments/keycloak.py metaclass-boilerplate
